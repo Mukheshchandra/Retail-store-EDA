@@ -1,1 +1,2 @@
-# Retail store price prediction
+# Retail store EDA
+
